@@ -1,0 +1,19 @@
+:root {
+    --main-color: #22343D;
+    --accent-color: #02897A;
+    --secondary-color: #fff;
+    --grey-main-color: #737373;
+    --gray-color: #AFAFAF;
+}
+
+.title-prop {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 1.5;
+}
+
+.sub-title {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
+}
